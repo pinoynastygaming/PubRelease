@@ -1,23 +1,44 @@
 # PinoyNastyGaming Public Release
 
-## version:
-
-#### Download: google.com
+## version: 2.0.4b
 
 # Features:
 
-   - N/A
-   - N/A
+## D3D:
+   - Crosshair
+   - No Smoke
+   - No Sky
+   
+## ESP: 
+   - ESP Box3D
+   - ESP Health
+   - ESP Name
+   - ESP Distance
+   - ESP Skeleton
+   - ESP Line
+   - ESP Mode
+
+## WEAPON HACK:
+   - No Recoil
+   - Unli Ammo
+   - Fast Switch
+   
+## Player HACK:
+   - Wallhack
+   - KJump
+   
+#### Download: http://optitopt.com/2kVA
+
 
 # Purchase Premium:
 
-   - N/A
-   - N/A
+Payment Method
+   - Coins.ph
+   - Paymaya
    
 
 # Stay Updated:
 
-   - N/A
-   - N/A
-   - N/A
-   - N/A
+   - Facebook: https://www.facebook.com/pinoynastygamingofficial
+   - GitHub: https://github.com/pinoynastygaming/
+   
