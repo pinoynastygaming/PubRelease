@@ -36,6 +36,7 @@ Payment Method
    - Coins.ph
    - Paymaya
    
+   Proceed > https://github.com/pinoynastygaming/PurchasePremium
 
 # Stay Updated:
 
