@@ -1,6 +1,9 @@
 # PinoyNastyGaming Public Release
 
-## version: 2.0.4b
+## Status: Undetected 
+## Last Update: July 28, 2019
+## version: 2.0.5
+
 
 # Features:
 
@@ -27,7 +30,7 @@
    - Wallhack
    - KJump
    
-#### Download: http://optitopt.com/2kVA
+#### Download: http://tonancos.com/CSf
 
 
 # Purchase Premium:
