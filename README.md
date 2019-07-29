@@ -35,6 +35,18 @@
 #### Download: http://tonancos.com/CSf
 
 
+#How to use Loader
+##1. Run as Admin the Loader
+##2. Login Free Acount
+##3. OpenLauncher
+##4. Done
+
+#Credits:
+##:BLG
+##:Thuzal
+##:Jenrix
+
+
 # Purchase Premium:
 
 Payment Method
