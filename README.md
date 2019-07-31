@@ -1,8 +1,7 @@
 # PinoyNastyGaming Public Release
 
 ## Status: Undetected 
-## Last Update: July 28, 2019
-## version: 2.0.5
+## Last Update: July 31, 2019
 
  ###  Username: SFPH
  ###  Password: pubaccount
